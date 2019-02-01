@@ -6,3 +6,4 @@ ESERCIZIO DI REPOSITORY
 
 ° primo item
 ° secondo item
+! git push
